@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/IN31/Intel_i11/Registar.xst" -ofn "D:/IN31/Intel_i11/Registar.syr" 

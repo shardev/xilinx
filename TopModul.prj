@@ -1,0 +1,5 @@
+vhdl work "UpravljackaJedinica.vhd"
+vhdl work "Registar.vhd"
+vhdl work "Multiplekser.vhd"
+vhdl work "ALU.vhd"
+vhdl work "TopModul.vhd"
